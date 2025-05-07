@@ -1,6 +1,8 @@
 langchain_community
+langchain-openai
 pandas 
 OpenAI
 PyPDF2
 streamlit
 
+-e .

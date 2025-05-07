@@ -15,7 +15,7 @@ setup(
         "PyPDF2",
         "streamlit"
     ],
-    include_package_data=True,
+    package=find_packages()
 )
 
 
